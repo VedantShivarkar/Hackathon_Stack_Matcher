@@ -1,0 +1,5 @@
+project_name,description,tech_stack,is_winner
+"EcoGrow","Smart agriculture IoT sensor network for optimal irrigation","Python, Flask, C++, Hardware",True
+"FinGuard","Financial transaction anomaly detection using isolation forests","Python, FastAPI, Scikit-learn",True
+"StudyBuddy","Real-time collaborative study application with messaging","React, Node.js, Firebase",False
+"CacheMaster","Interactive least-recently-used cache engine simulator","C, C++",True
